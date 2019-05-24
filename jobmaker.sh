@@ -9,6 +9,7 @@ OPTIONS
 
 
 Format:
+* stands for a wildcard which is every instance of a time unit.
 
 #  ┌───────────── minute (00 - 59)
 #  │ ┌───────────── hour (00 - 23)
