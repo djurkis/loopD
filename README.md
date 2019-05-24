@@ -1,6 +1,14 @@
+
+
+
 ## loopD
 
 Simple Deamon that runs your jobs in specified intervals
+
+The intended use it to first create a jobfile that will contain
+formated jobs using `jobmaker.sh`, and then launch loopD in the backround
+forever. It sleeps for a specified interval and then wakes up to executes
+due jobs, therefore you can add jobs with jobmaker and need not restart loopD.
 
 
 
