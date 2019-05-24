@@ -15,7 +15,7 @@ OPTIONS
 
 COMMANDS
 start             Starts a scheduling cycle
-          				Executes due jobs and sleeps.
+                  Executes due jobs and sleeps.
 
 
 
